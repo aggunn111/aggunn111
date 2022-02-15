@@ -2,7 +2,7 @@
 Sebagai contoh latihan pembuatan portofolio di GitHub
 ----
 
-Perkenalkan nama saya **Annisa GUnawan**.  
+Perkenalkan nama saya **Anggun**.  
 Saya seorang **Curiculum Developer** di [Dicoding](https://www.dicoding.com/)  
 Saya bertanggung jawab pada kualitas materi iOs dengan dibekali [sertifikat dari University Toronto]
 (https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M)  
